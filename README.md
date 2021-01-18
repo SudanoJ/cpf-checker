@@ -1,5 +1,5 @@
 # cpf-checker
-A python script to check if a brazilian cpf is valid
+Um script de python para verificar se um CPF é válido.
 
 #### Works on any OS
 
